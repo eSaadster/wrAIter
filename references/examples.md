@@ -39,3 +39,19 @@ Before. "What if I told you that the best teams do not optimize for productivity
 After. "The best teams optimize for learning, not productivity."
 
 Changes. Direct claim. No rhetorical scaffolding.
+
+## Example 6. Demonstration Trap When Cataloging Catches
+
+Before. "Structure matters too. 'Not X, it is Y' contrasts. Lists of what something is not before the reveal. Staccato fragments. Inanimate objects doing human verbs. 'The decision emerges' when someone decided."
+
+After. "Structure matters too. State the point in one direction, lead with what something is, write full sentences, and put whoever acts in the subject slot."
+
+Changes. Positive instructions replace a fragment stack of quoted violations. No back to back bad examples. No false agency even in warning copy.
+
+## Example 7. Demonstration Trap in a Closer
+
+Before. "If your drafts sound polished but hollow, the problem might be the patterns, not the ideas. wrAIter goes after the patterns so the ideas can breathe."
+
+After. "Grab SKILL.md and the reference files. Run your next draft through it. See what comes back."
+
+Changes. Cut conditional setup, binary contrast, and metaphor. End with a direct call to action.

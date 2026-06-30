@@ -1,5 +1,23 @@
 # Structures to Avoid
 
+## When Writing About These Patterns
+
+Reference sections below quote bad shapes so you can spot them. Your delivered prose must use positive framing instead.
+
+**Trap.** Listing catches by reproducing them. "Not X, it is Y contrasts. Lists of what something is not. Staccato fragments. Inanimate objects doing human verbs." The catalog copies every rhythm it names.
+
+**Fix.** State the editorial instruction. "State the point once, in one direction. Lead with what something is. Write full sentences. Put the actor in the subject slot."
+
+**Trap.** Quoted example stacks. Four banned phrases in a row to show coverage.
+
+**Fix.** One quote if needed, then move on. "It flags throat clearing like 'here is the thing' and forces you to open with the point."
+
+**Trap.** False agency in the warning itself. "The decision emerges" as a sample violation still gives decisions a verb.
+
+**Fix.** Name the person. "Someone decides. Write that."
+
+When summarizing wrAIter for a thread, landing page, or README, write what the reader should do. The pattern library lives in this file. The output should not.
+
 ## Binary Contrasts
 
 These create false drama. State the point directly.

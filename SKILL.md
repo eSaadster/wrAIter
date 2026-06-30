@@ -39,6 +39,28 @@ Eliminate predictable AI writing patterns from prose.
 
 14. **Focus on clarity.** Make it easy to understand.
 
+15. **Do not model what you ban.** Reference files quote bad patterns so you can recognize them. Delivered prose must not reuse those shapes. See Demonstration Trap below.
+
+## Demonstration Trap
+
+The reference files show banned patterns as quoted examples. That is for study, not for output.
+
+When you write about wrAIter, summarize catches, or explain what to avoid, you will copy the rhythm of the bans unless you force a different shape.
+
+**Rules for cataloging catches.**
+
+State what to do, not a stack of what not to do. One positive instruction beats four quoted violations.
+
+Use one flowing sentence per idea. Do not chain parallel fragments that mirror staccato drama.
+
+Quote at most one bad example per piece, and only when the reader needs to see the exact phrase. Never stack quoted examples back to back.
+
+If you need to cover several structure types, group them in prose with varied sentence length. Two items beat three. No inventory lists.
+
+Name the human when you describe false agency. Do not write "decisions emerge" even as an example of what to avoid. Write "someone decides."
+
+**Self test before delivery.** Read the paragraph aloud. If it sounds like a list of AI tells, rewrite it as instructions a human editor would give.
+
 ## Strict No Use Rules
 
 Do not use dashes in writing.
@@ -85,6 +107,12 @@ Any colons? Remove them unless they are part of input formatting.
 
 Any rhetorical questions? Remove them.
 
+Cataloging several bans in matching short sentences? Merge into flowing prose.
+
+Stacked quoted bad examples? Keep one or cut all and state the fix.
+
+Describing a banned pattern by writing the pattern? Rewrite as a positive instruction.
+
 ## Scoring
 
 Rate 1 to 10 on each dimension.
@@ -96,8 +124,9 @@ Rate 1 to 10 on each dimension.
 | Trust | Respects reader intelligence? |
 | Authenticity | Sounds human? |
 | Density | Anything cuttable? |
+| Demonstration | Does output accidentally model banned patterns? |
 
-Below 35 out of 50 means revise.
+Below 42 out of 60 means revise.
 
 ## Examples
 

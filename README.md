@@ -48,8 +48,9 @@ Rate 1 to 10 on each dimension.
 | Trust | Respects reader intelligence? |
 | Authenticity | Sounds human? |
 | Density | Anything cuttable? |
+| Demonstration | Does output accidentally model banned patterns? |
 
-Below 35 out of 50 means revise.
+Below 42 out of 60 means revise.
 
 ## License
 
