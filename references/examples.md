@@ -4,25 +4,25 @@
 
 Before. "Here is the thing. Building products is hard. Not because the technology is complex. Because people are complex. Let that sink in."
 
-After. "Building products is hard. Technology is manageable. People are not."
+After. "Product teams spend much of their time negotiating goals and ownership."
 
-Changes. Removed opener, binary contrast structure, and emphasis crutch. Direct statements.
+Changes. Removed the opener, the binary contrast, and the emphasis crutch. The revision states the concrete source of work without using technology as a foil.
 
 ## Example 2. Filler and Unnecessary Reassurance
 
 Before. "It turns out that most teams struggle with alignment. The uncomfortable truth is that nobody wants to admit they are confused. And that is okay."
 
-After. "Teams struggle with alignment. Nobody admits confusion."
+After. "Teams hide confusion and stay misaligned."
 
-Changes. Cut hedging, removed throat clearing phrases, deleted permission granting ending.
+Changes. Cut the hedge, the throat clearing phrase, and the permission granting ending. One sentence carries the full thought.
 
 ## Example 3. Business Jargon Stack
 
 Before. "In today's fast paced landscape, we need to lean into discomfort and navigate uncertainty with clarity. This matters because your competition is not waiting."
 
-After. "Move faster. Your competition is."
+After. "Ship before competitors reach the customers you want."
 
-Changes. Eliminated jargon entirely. Core message in six words.
+Changes. Replaced jargon and the staccato payoff with a specific instruction.
 
 ## Example 4. Dramatic Fragmentation
 
@@ -36,9 +36,9 @@ Changes. Single sentence. No performative emphasis.
 
 Before. "What if I told you that the best teams do not optimize for productivity? Here is what I mean. They optimize for learning. Think about it."
 
-After. "The best teams optimize for learning, not productivity."
+After. "The best teams optimize for learning."
 
-Changes. Direct claim. No rhetorical scaffolding.
+Changes. States the claim directly without using productivity as a foil.
 
 ## Example 6. Demonstration Trap When Cataloging Catches
 
@@ -52,6 +52,6 @@ Changes. Positive instructions replace a fragment stack of quoted violations. No
 
 Before. "If your drafts sound polished but hollow, the problem might be the patterns, not the ideas. wrAIter goes after the patterns so the ideas can breathe."
 
-After. "Grab SKILL.md and the reference files. Run your next draft through it. See what comes back."
+After. "Run your next draft through SKILL.md and review the edits."
 
-Changes. Cut conditional setup, binary contrast, and metaphor. End with a direct call to action.
+Changes. Cut the conditional setup, binary contrast, metaphor, and staccato command sequence.

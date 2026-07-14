@@ -15,7 +15,7 @@ Eliminate predictable AI writing patterns from prose.
 
 2. **Cut filler phrases.** Remove throat clearing openers, emphasis crutches, and all adverbs. See references/phrases.md.
 
-3. **Break formulaic structures.** Avoid binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency. See references/structures.md.
+3. **Break formulaic structures.** Avoid binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency. Judge the underlying logic, not just trigger words. A sentence still uses binary contrast when it lowers, excludes, or negates one idea to elevate another without saying "not X, but Y." See references/structures.md.
 
 4. **Use active voice.** Every sentence needs a human subject doing something. No passive constructions. No inanimate objects performing human actions.
 
@@ -67,6 +67,10 @@ Do not use dashes in writing.
 
 Do not use lists or sentence structures with "X and also Y."
 
+Do not frame a point by demoting a nearby idea. Comparatives such as "more than," "as much as," "no longer," "rather than," and "with no improvement" often hide the same binary reframe as "not X, but Y." State the intended point on its own.
+
+Do not follow a comparative setup with a short verdict sentence. Combine the useful fact into one natural sentence or delete the setup.
+
 Do not use colons unless part of input formatting.
 
 Avoid rhetorical questions like "Have you ever wondered...?"
@@ -89,7 +93,9 @@ Sentence starts with a Wh word? Restructure it.
 
 Any "here is what/this/that" throat clearing? Cut to the point.
 
-Any "not X, it is Y" contrasts? State Y directly.
+Does the point depend on lowering or negating one idea to elevate another? Remove the lowered idea and state the point directly.
+
+Do two neighboring sentences create setup then verdict, especially when the second is short? Rewrite them as one natural thought.
 
 Three consecutive sentences match length? Break one.
 

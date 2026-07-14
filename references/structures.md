@@ -52,6 +52,20 @@ Pattern. "Not just X but also Y." Problem. Additive hedge.
 
 Instead, state Y directly. "The problem is Y." "Y matters here." Drop the negation entirely.
 
+### Disguised Binary Contrasts
+
+The logic matters more than the wording. A comparison can recreate the same pivot without using the standard template.
+
+Pattern. "X matters almost as much as Y." Problem. The sentence borrows importance from Y instead of explaining X.
+
+Pattern. "The question is no longer X." Problem. The writer dismisses X to manufacture a new frame.
+
+Pattern. "More X can mean Y with no Z." Problem. The negative result supplies a punchline instead of a clear finding.
+
+Pattern. "X matters more than people think." Problem. An invented opposing view adds drama.
+
+Write the finding in one direction. Name the result, the conditions, and the consequence. For example, give the measured cost and accuracy at each effort level without turning one into rhetorical setup for the other.
+
 ## Negative Listing
 
 Listing what something is not before revealing what it is. A rhetorical striptease.
@@ -161,6 +175,10 @@ Pattern. Questions answered immediately. Fix. Let questions breathe or cut them.
 Pattern. Every paragraph ends punchily. Fix. Vary endings.
 
 Pattern. Staccato fragmentation. Fix. Do not stack short punchy sentences.
+
+Pattern. A broad comparison followed by a short verdict. Problem. The first sentence creates suspense and the second performs the reveal. Fix. Keep the concrete finding and write it as one complete thought.
+
+Pattern. Two short sentences that divide one idea into setup and payoff. Problem. The paragraph sounds scripted even when both sentences are grammatical. Fix. Join the thought or remove the setup.
 
 Pattern. "Not always. Not perfectly." Problem. Hedging disguised as reassurance.
 
