@@ -1,51 +1,99 @@
 ---
 name: wraiter
-description: Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate predictable AI tells.
+description: Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to make it direct, rhythmic, and human.
 metadata:
   trigger: Writing prose, editing drafts, reviewing content for AI patterns
 ---
 
 # wraiter
 
-Eliminate predictable AI writing patterns from prose.
+AI prose hums on one frequency. Sentences run the same length and claims arrive padded. Arguments lean on their neighbors for balance.
 
-## Core Rules
+This skill breaks the hum. The method comes from three older crafts. Music supplies the rhythm and math supplies the proof. Philosophy supplies the stance. The point is a voice with fingerprints on the page.
 
-1. **Use simple language.** Short, plain sentences. Cut extra words.
+## Rhythm, from music
 
-2. **Cut filler phrases.** Remove throat clearing openers, emphasis crutches, and all adverbs. See references/phrases.md.
+A drummer who hits every beat the same way puts the room to sleep. Sentences do the same.
 
-3. **Break formulaic structures.** Avoid binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency. Judge the underlying logic, not just trigger words. A sentence still uses binary contrast when it lowers, excludes, or negates one idea to elevate another without saying "not X, but Y." See references/structures.md.
+Vary the length. Set a long sentence, one that builds and carries real detail, next to a short one. The short one lands.
 
-4. **Use active voice.** Every sentence needs a human subject doing something. No passive constructions. No inanimate objects performing human actions.
+Treat a cut like a rest. A rest is a note played as silence. A deleted word is a beat played as silence. Cut and the sentence gets louder.
 
-5. **Be specific.** No vague declaratives. Name the specific thing. No lazy extremes doing vague work.
+Stop at two. A triplet resolves on cue and the reader hears the template instead of the thought. A pair keeps moving.
 
-6. **Put the reader in the room.** No narrator from a distance voice. "You" beats "People." Specifics beat abstractions.
+Use syncopation. Put the important word where the beat does not announce it. Surprise lives off the downbeat.
 
-7. **Vary rhythm.** Mix sentence lengths. Two items beat three. End paragraphs differently.
+Change the ending. If every paragraph closes on a crash, the reader starts watching the drummer and stops hearing the song.
 
-8. **Trust readers.** State facts directly. Skip softening, justification, hand holding.
+## Proof, from math
 
-9. **Be direct and concise.** Maintain a natural tone. Write like people actually talk. It is fine to start with "and" or "but."
+A theorem does not argue its case. It stands, and the work underneath holds it up. Write that way.
 
-10. **Skip marketing language.** No hype, no exaggeration.
+State the claim the way a proof states the theorem. First line, full confidence. Then show the work. The number, the name, the date, the mechanism.
 
-11. **Keep it honest.** Do not fake friendliness or overpromise.
+Prove P alone. A proof of P needs no fallen Q beside it. This is the foil ban, and it gets its own section below.
 
-12. **Simplify grammar.** Casual grammar is okay if it feels more human.
+Stop at QED. The proof ends when the result does. A writer who keeps going after the point lands sounds unsure of the point.
 
-13. **Cut the fluff.** Skip extra adjectives or filler words.
+## Stance, from philosophy
 
-14. **Focus on clarity.** Make it easy to understand.
+Every sentence takes a position. Take yours out loud.
 
-15. **Do not model what you ban.** Reference files quote bad patterns so you can recognize them. Delivered prose must not reuse those shapes. See Demonstration Trap below.
+Name the agent. Someone decides, someone builds, someone ships. Decisions do not emerge and cultures do not shift on their own. A person acts. Put the person in the subject slot.
+
+Trust the reader. State the fact once and move on. Hedging tells the reader you doubt the claim, and softening tells them you doubt their intelligence. Rhetorical questions borrow authority from a dialogue that is not happening.
+
+Shave with Occam. Entities beyond necessity get the razor, and words beyond necessity get the same shave.
+
+Name the thing itself. "Significant implications" points at the map and calls it the terrain. Name the revenue, the deadline, the person who quits.
+
+## The foil ban
+
+One rule carries the most weight here, so it stands alone.
+
+Do not make one idea strong by weakening the idea beside it. Comparatives and negations smuggle the foil in under polite wording. Reframes do it in plain sight. A claim borrows force from an invented doubter or a negated neighbor, and borrowed light stays borrowed.
+
+Your claim works the way a proof works. It stands in an empty room or it falls in one. Delete the foil and state the point. If the point wilts once the comparison is gone, the comparison was carrying the load.
+
+Run one test on every claim. Remove the neighbor and read the sentence again. If the sentence lost force, rewrite it until it stands on its own feet. References/structures.md holds the full foil family, including the disguised forms that read as fair.
+
+## Core rules
+
+1. Use simple language. Short words, short sentences. Cut whatever fills space.
+
+2. Cut filler phrases. No throat clearing openers, no emphasis crutches, no adverbs. See references/phrases.md.
+
+3. Honor the foil ban. No comparisons that demote one idea to elevate another. State the point in one direction. See The foil ban above.
+
+4. Break formulaic structures. Judge the logic of a sentence, not its trigger words. A sentence still runs a binary contrast when it lowers, excludes, or negates one idea to elevate another without saying "not X, but Y." See references/structures.md.
+
+5. Use active voice. A human does something in every sentence. No inanimate objects performing human actions.
+
+6. Be specific. Name the exact thing. No vague declaratives, no lazy extremes doing vague work.
+
+7. Put the reader in the room. "You" beats "people." A scene beats a survey.
+
+8. Vary the rhythm. Mix sentence lengths. End paragraphs in different ways.
+
+9. Trust readers. State facts directly. Skip softening, justification, hand holding.
+
+10. Be direct and concise. Write like people talk. Starting with "and" or "but" is fine.
+
+11. Skip marketing language. No hype, no exaggeration. Excitement comes from concrete detail. Adjectives about excitement kill it.
+
+12. Keep it honest. No fake friendliness, no overpromising.
+
+13. Simplify grammar. Casual grammar is welcome when it sounds human.
+
+14. Cut the fluff. Extra adjectives and filler words go first.
+
+15. Do not model what you ban. Reference files quote bad patterns so you can recognize them. Delivered prose must not reuse those shapes. See Demonstration Trap below.
 
 ## Demonstration Trap
 
 The reference files show banned patterns as quoted examples. That is for study, not for output.
 
-When you write about wrAIter, summarize catches, or explain what to avoid, you will copy the rhythm of the bans unless you force a different shape.
+When you write about wraiter, summarize catches, or explain what to avoid, you will copy the rhythm of the bans unless you force a different shape.
 
 **Rules for cataloging catches.**
 
@@ -53,7 +101,7 @@ State what to do, not a stack of what not to do. One positive instruction beats 
 
 Use one flowing sentence per idea. Do not chain parallel fragments that mirror staccato drama.
 
-Quote at most one bad example per piece, and only when the reader needs to see the exact phrase. Never stack quoted examples back to back.
+Quote at most one bad example per piece, and only when the reader needs the exact phrase. Never stack quoted examples back to back.
 
 If you need to cover several structure types, group them in prose with varied sentence length. Two items beat three. No inventory lists.
 
@@ -61,27 +109,27 @@ Name the human when you describe false agency. Do not write "decisions emerge" e
 
 **Self test before delivery.** Read the paragraph aloud. If it sounds like a list of AI tells, rewrite it as instructions a human editor would give.
 
-## Strict No Use Rules
+## Strict no use rules
 
-Do not use dashes in writing.
+No dashes in writing.
 
-Do not use lists or sentence structures with "X and also Y."
+No lists or sentence structures with "X and also Y."
 
-Do not frame a point by demoting a nearby idea. Comparatives such as "more than," "as much as," "no longer," "rather than," and "with no improvement" often hide the same binary reframe as "not X, but Y." State the intended point on its own.
+No foil constructions. No point framed by demoting a nearby idea. Comparatives such as "more than," "as much as," "no longer," "rather than," and "with no improvement" smuggle the foil in under polite wording. State the intended point on its own.
 
-Do not follow a comparative setup with a short verdict sentence. Combine the useful fact into one natural sentence or delete the setup.
+No comparative setup followed by a short verdict sentence. Combine the useful fact into one natural sentence or delete the setup.
 
-Do not use colons unless part of input formatting.
+No colons unless part of input formatting.
 
-Avoid rhetorical questions like "Have you ever wondered...?"
+No rhetorical questions.
 
-Do not start or end sentences with words like "Basically," "Clearly," or "Interestingly."
+No sentences that start or end with "Basically," "Clearly," or "Interestingly."
 
-No fake engagement phrases like "Let's take a look," "Join me on this journey," or "Buckle up."
+No fake engagement. "Let's take a look," "Join me on this journey," "Buckle up." Cut them all.
 
-## Quick Checks
+## Quick checks
 
-Before delivering prose, ask these questions.
+Tap the paragraph on the desk before you ship it. Then ask these.
 
 Any adverbs? Kill them.
 
@@ -91,31 +139,31 @@ Inanimate thing doing a human verb? Name the person.
 
 Sentence starts with a Wh word? Restructure it.
 
-Any "here is what/this/that" throat clearing? Cut to the point.
+Any throat clearing? Cut to the point.
 
-Does the point depend on lowering or negating one idea to elevate another? Remove the lowered idea and state the point directly.
+Does the point lean on a weaker neighbor? Remove the neighbor and read the sentence again. Rewrite until the point stands alone. This is the foil check. Run it twice.
 
-Do two neighboring sentences create setup then verdict, especially when the second is short? Rewrite them as one natural thought.
+Do two neighboring sentences split into setup then verdict? Join them.
 
 Three consecutive sentences match length? Break one.
 
-Paragraph ends with punchy one liner? Vary it.
+Paragraph ends on a crash hit? Vary the ending.
 
-Vague declarative? Name the specific implication.
+Vague declarative? Name the specific stake.
 
-Narrator from a distance? Put the reader in the scene.
+Narrator floating above the scene? Put the reader in the room.
 
-Meta joiners? Delete. Let the essay move.
+Meta commentary? Delete. Let the piece move.
 
 Any dashes? Remove them.
 
-Any colons? Remove them unless they are part of input formatting.
+Any colons? Remove them unless they belong to input formatting.
 
 Any rhetorical questions? Remove them.
 
-Cataloging several bans in matching short sentences? Merge into flowing prose.
+Cataloging bans in matching short sentences? Merge into flowing prose.
 
-Stacked quoted bad examples? Keep one or cut all and state the fix.
+Stacked quoted examples? Keep one or cut all and state the fix.
 
 Describing a banned pattern by writing the pattern? Rewrite as a positive instruction.
 
@@ -126,11 +174,13 @@ Rate 1 to 10 on each dimension.
 | Dimension | Question |
 |-----------|----------|
 | Directness | Statements or announcements? |
-| Rhythm | Varied or metronomic? |
+| Rhythm | Syncopation or metronome? |
 | Trust | Respects reader intelligence? |
-| Authenticity | Sounds human? |
+| Authenticity | A voice or a template? |
 | Density | Anything cuttable? |
-| Demonstration | Does output accidentally model banned patterns? |
+| Demonstration | Does the output model banned patterns? |
+
+A foil construction anywhere in the piece caps Directness at 5.
 
 Below 42 out of 60 means revise.
 

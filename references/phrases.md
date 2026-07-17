@@ -1,8 +1,10 @@
 # Phrases to Remove
 
+This catalog is a tuning reference. Study it here. Keep it out of delivered prose.
+
 ## Throat Clearing Openers
 
-Remove these announcement phrases. State the content directly.
+These count the band in and delay the song. Skip the count. Start on the note.
 
 Here is the thing.
 
@@ -13,6 +15,8 @@ Here is this [X].
 Here is that [X].
 
 Here is why [X].
+
+Here is what nobody tells you.
 
 The uncomfortable truth is.
 
@@ -38,13 +42,19 @@ Any "here is what/this/that" construction is throat clearing before the point. C
 
 ## Emphasis Crutches
 
-These add no meaning. Delete them.
+These ask the reader for a reaction the sentence did not earn. Delete them.
 
 Full stop.
 
 Period.
 
 Let that sink in.
+
+Let that land.
+
+Read that again.
+
+Sit with that.
 
 This matters because.
 
@@ -54,7 +64,7 @@ Here is why that matters.
 
 ## Business Jargon
 
-Replace with plain language.
+Jargon is a borrowed suit. Wear your own clothes. Replace with plain language.
 
 Avoid "Navigate challenges." Use "Handle" or "Address."
 
@@ -78,9 +88,21 @@ Avoid "Circle back." Use "Return to" or "Revisit."
 
 Avoid "On the same page." Use "Aligned" or "Agreed."
 
+Avoid "Unlock." Use "Open" or "Enable."
+
+Avoid "Supercharge." Use "Speed up."
+
+Avoid "Level up." Use "Improve."
+
+Avoid "Seamless." Say what happens.
+
+Avoid "Elevate." Say what gets better and by how much.
+
 ## Adverbs
 
-Kill all adverbs. No "ly" words. No softeners, no intensifiers, no hedges.
+An adverb flags a weak verb. "Ran quickly" should read "sprinted." Swap the verb and the adverb goes with it.
+
+No "ly" words. No softeners. No intensifiers or hedges.
 
 Specific offenders include "really," "just," "literally," "genuinely," "honestly," "simply," "actually," "deeply," "truly," "fundamentally," "inherently," "inevitably," "interestingly," "importantly," and "crucially."
 
@@ -102,7 +124,7 @@ The reality is.
 
 ## Meta Commentary
 
-Remove self referential asides. The essay should move, not announce its own structure.
+The piece should move. Announcing the movement stalls it.
 
 Hint.
 
@@ -128,9 +150,11 @@ As we will see.
 
 I want to explore.
 
+Stay with me.
+
 ## Performative Emphasis
 
-False intimacy or manufactured sincerity.
+False intimacy, manufactured sincerity.
 
 Creeps in.
 
@@ -138,9 +162,11 @@ I promise.
 
 They exist, I promise.
 
+Worth reading twice.
+
 ## Telling Instead of Showing
 
-Announcing difficulty or significance rather than demonstrating it.
+Announcing difficulty or significance instead of demonstrating it.
 
 This is genuinely hard.
 
@@ -152,7 +178,7 @@ Actually matters.
 
 ## Vague Declaratives
 
-Sentences that announce importance without naming the specific thing. Kill these.
+These point at the map and call it the terrain. Kill them.
 
 The reasons are structural.
 
@@ -164,4 +190,8 @@ The stakes are high.
 
 The consequences are real.
 
-If a sentence says something is important or deep or structural without showing the specific thing, cut it or replace it with the specific thing.
+The landscape is shifting.
+
+This changes everything.
+
+If a sentence calls something important or deep or structural without naming the specific thing, cut it or replace it with the specific thing.

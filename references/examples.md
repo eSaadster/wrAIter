@@ -1,46 +1,72 @@
 # Before and After Examples
 
-## Example 1. Throat Clearing and Binary Contrast
+Read these as proofs. Each After keeps the concrete fact and cuts the performance around it.
 
-Before. "Here is the thing. Building products is hard. Not because the technology is complex. Because people are complex. Let that sink in."
+## Example 1. The foil
 
-After. "Product teams spend much of their time negotiating goals and ownership."
+Before. "This is not just another productivity tool. It is a complete rethink of how teams work."
 
-Changes. Removed the opener, the binary contrast, and the emphasis crutch. The revision states the concrete source of work without using technology as a foil.
+After. "The tool puts tasks and chat in one window."
 
-## Example 2. Filler and Unnecessary Reassurance
+Changes. The original spends a straw rival's credibility and then announces significance with no evidence. The rewrite says what the thing is and stops.
 
-Before. "It turns out that most teams struggle with alignment. The uncomfortable truth is that nobody wants to admit they are confused. And that is okay."
+## Example 2. The disguised foil
 
-After. "Teams hide confusion and stay misaligned."
+Before. "Shipping speed matters almost as much as code quality, and teams are investing more than ever."
 
-Changes. Cut the hedge, the throat clearing phrase, and the permission granting ending. One sentence carries the full thought.
+After. "Teams now budget for release automation the way they budget for tests."
 
-## Example 3. Business Jargon Stack
+Changes. The original borrows weight from code quality and then from an invented rising past. The rewrite names the concrete behavior. Note the analogy that survives. "The way they budget for tests" explains the new thing through a familiar one and demotes nothing, so the foil ban lets it through.
 
-Before. "In today's fast paced landscape, we need to lean into discomfort and navigate uncertainty with clarity. This matters because your competition is not waiting."
+## Example 3. Comparative setup, short verdict
 
-After. "Ship before competitors reach the customers you want."
+Before. "Some teams write documentation when time allows. The best teams write it before the code."
 
-Changes. Replaced jargon and the staccato payoff with a specific instruction.
+After. "Write the doc before the code."
 
-## Example 4. Dramatic Fragmentation
+Changes. The "some teams" group existed to lose. Cut the group. The instruction stood alone from the start.
+
+## Example 4. Throat clearing and emphasis crutch
+
+Before. "Here is the thing about remote work. It is worth noting that most teams struggle with alignment. Let that sink in."
+
+After. "Remote teams drift out of alignment without a written plan."
+
+Changes. Two announcements and one crutch gone. The claim arrives in the first sentence now.
+
+## Example 5. Dramatic fragmentation
 
 Before. "Speed. Quality. Cost. You can only pick two. That is it. That is the tradeoff."
 
 After. "Pick two from speed, quality, and cost."
 
-Changes. Single sentence. No performative emphasis.
+Changes. One sentence, no performative emphasis. A real enumeration of three options is content, not a triplet. The ban targets decorative threes, and this list carries the actual constraint.
 
-## Example 5. Rhetorical Setup
+## Example 6. False agency
+
+Before. "The decision emerges from the data, and the culture shifts toward quality."
+
+After. "The tech lead reads the error rates and moves review earlier in the sprint."
+
+Changes. Decisions do not emerge. Someone decides. Cultures do not shift. Someone changes a habit. The rewrite gives both verbs a person.
+
+## Example 7. Vague declarative, map and terrain
+
+Before. "The implications of this outage are significant and the stakes are high."
+
+After. "The outage cost four enterprise renewals and nine days of engineering time."
+
+Changes. "Significant" and "high stakes" pointed at the map. The rewrite walks the terrain and trades adjectives for numbers.
+
+## Example 8. Rhetorical setup
 
 Before. "What if I told you that the best teams do not optimize for productivity? Here is what I mean. They optimize for learning. Think about it."
 
 After. "The best teams optimize for learning."
 
-Changes. States the claim directly without using productivity as a foil.
+Changes. States the claim without the posturing, and drops productivity as a foil. The claim stands in an empty room.
 
-## Example 6. Demonstration Trap When Cataloging Catches
+## Example 9. Demonstration trap when cataloging catches
 
 Before. "Structure matters too. 'Not X, it is Y' contrasts. Lists of what something is not before the reveal. Staccato fragments. Inanimate objects doing human verbs. 'The decision emerges' when someone decided."
 
@@ -48,10 +74,10 @@ After. "Structure matters too. State the point in one direction, lead with what 
 
 Changes. Positive instructions replace a fragment stack of quoted violations. No back to back bad examples. No false agency even in warning copy.
 
-## Example 7. Demonstration Trap in a Closer
+## Example 10. Demonstration trap in a closer
 
-Before. "If your drafts sound polished but hollow, the problem might be the patterns, not the ideas. wrAIter goes after the patterns so the ideas can breathe."
+Before. "If your drafts sound polished but hollow, the problem might be the patterns, not the ideas. wraiter goes after the patterns so the ideas can breathe."
 
 After. "Run your next draft through SKILL.md and review the edits."
 
-Changes. Cut the conditional setup, binary contrast, metaphor, and staccato command sequence.
+Changes. Cut the conditional setup, the binary contrast, and the metaphor. One instruction closes the piece.
