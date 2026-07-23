@@ -108,15 +108,19 @@ Instead, state Z. The reader does not need the runway.
 
 ## Rhythm patterns, or the metronome problem
 
-A metronome keeps perfect time and empties the dance floor. Prose that repeats one shape does the same. These are the shapes.
+A metronome keeps perfect time and empties the dance floor. Prose that repeats one shape does the same. Forced shortness is one of those shapes. Three and four word sentences stacked end to end sound clipped and artificial, even when each one is grammatical. Length should follow the thought. A claim that needs a condition and a consequence should keep them in one natural sentence.
+
+These are the shapes to watch.
 
 Pattern. Three item lists. The triplet resolves on cue and the reader hears the template. Fix. Stop at two items, or push past three so the symmetry breaks.
 
-Pattern. Matched sentence lengths three in a row. Fix. Break one. Let a long sentence stretch, then cut short.
+Pattern. Matched sentence lengths three in a row. Fix. Break one. Let a long sentence stretch, then cut short when a short cut earns its place.
+
+Pattern. Everything cut to telegraphic length. Fix. Restore the clauses the thought still needs. Crisp cuts filler. It does not turn every line into a fragment.
 
 Pattern. Every paragraph ends punchily. The crash ending. Fix. Vary the endings. Let a paragraph walk off mid thought when the thought is done.
 
-Pattern. Staccato fragmentation. Fix. Do not stack short punchy sentences.
+Pattern. Staccato fragmentation. Fix. Do not stack short punchy sentences. Write complete sentences that sound like speech.
 
 Pattern. Questions answered in the next sentence. Fix. Let questions breathe or cut them.
 
@@ -130,7 +134,7 @@ Pattern. "X. And Y. And Z." Problem. Staccato drama.
 
 Pattern. "This unlocks something. [Word]." Problem. Artificial revelation.
 
-Instead, use complete sentences. Trust content over presentation.
+Instead, use complete sentences with natural length. Trust content over presentation. A short sentence can land after a long one when it earns the rest. Do not make shortness the default.
 
 ## Rhetorical Setups
 
@@ -215,3 +219,123 @@ Wh openers become a crutch. "What makes this hard is" becomes "The constraint is
 Pattern. Lazy extremes. "Every," "always," "never," "everyone," "everybody," "nobody." Problem. False authority. Use specifics instead of sweeping claims.
 
 Pattern. All adverbs. "Ly" words, "really," "just," "literally," "genuinely," "honestly," "simply," "actually." Problem. Empty emphasis. See phrases.md for the full list.
+
+## Colon reveals
+
+A noun phrase, a colon, then a lowercase dramatic reveal. The colon pretends to announce a hidden truth.
+
+Pattern. "The detail that makes it work: a separate agent grades it." Problem. Fake drama. The colon is doing performance work.
+
+Pattern. "The best part: it learns." Problem. Same con.
+
+Rewrite as a plain sentence. "A separate agent does the grading, which is what makes it work." Use colons for lists, labels, and quotes, not fake drama. Prefer sentence case after a colon unless grammar, a proper noun, a title, or code requires otherwise.
+
+## Faux-insight setups
+
+These flatter the writer as the lone expert who sees what everyone else misses.
+
+Pattern. "This is the part most people skip." Problem. Manufactured exclusivity.
+
+Pattern. "What most people get wrong." Problem. Same.
+
+Pattern. "Here's what nobody tells you." Problem. Same.
+
+Pattern. "The part everyone misses." Problem. Same.
+
+Cut the setup and make the claim stand on its own. "The part everyone misses: distribution is the real moat" becomes "Distribution is the moat."
+
+## Importance puffery
+
+These phrases announce significance instead of demonstrating it. Let the reader judge whether something matters.
+
+Pattern. "Stands as a testament." Problem. The sentence is wearing a tuxedo to breakfast.
+
+Pattern. "Marks a pivotal moment." Problem. Same.
+
+Pattern. "Plays a vital role." Problem. Same.
+
+Pattern. "Solidifies its position." Problem. Same.
+
+Pattern. "Underscores its significance." Problem. Same.
+
+State the fact. "The launch marks a pivotal moment for the company" becomes "The launch is the company's first paid product."
+
+## Weasel attribution
+
+These phrases borrow authority from no one in particular.
+
+Pattern. "Experts agree." Problem. Which experts? On what evidence?
+
+Pattern. "Industry reports suggest." Problem. Which reports?
+
+Pattern. "Many argue." Problem. How many? Who?
+
+Pattern. "Widely regarded as." Problem. By whom?
+
+Pattern. "Studies show." Problem. Which studies?
+
+Name the source or cut the claim. If the user has no source, ask instead of inventing one.
+
+## Fake-strong verbs
+
+These use fancy verbs to make a simple relationship sound engineered.
+
+Pattern. "Serves as a centralized hub." Problem. "Is" would do the work.
+
+Pattern. "Functions as a bridge." Problem. Same.
+
+Pattern. "Acts as a catalyst." Problem. Same.
+
+Prefer "is" and "has" when they are clearer. "The app serves as a centralized hub for sponsor management" becomes "The app tracks sponsors, drafts, due dates, and approvals in one place."
+
+## Synonym cycling
+
+Rotating terms for style when the clear word was right the first time.
+
+Pattern. "The agent reviews the draft. The assistant scores the piece. The tool suggests fixes." Problem. Three names for the same thing.
+
+Fix. Repeat the clear word. "The agent reviews the draft, scores it, and suggests fixes."
+
+## Fake-profound kickers
+
+The final "deep" line that turns a concrete point into a cute metaphor or mic-drop.
+
+Pattern. "And that, in the end, is what it means to build." Problem. A manufactured ending.
+
+Pattern. "Because at the end of the day, people just want to feel heard." Problem. Same.
+
+Cut the kicker. Do not rewrite it into a better metaphor. Do not preserve the rhythm. Delete it, then end on the clearest concrete sentence already in the draft. If the ending needs more closure, add a plain takeaway or next action.
+
+## Summary-recap endings
+
+The reader was just there. Restating the piece insults their memory.
+
+Pattern. "In conclusion, we have seen that..." Problem. The piece already concluded.
+
+Pattern. "Ultimately, the key takeaway is..." Problem. Same.
+
+Pattern. "Overall, this demonstrates that..." Problem. Same.
+
+End on the last concrete point, takeaway, or next action instead.
+
+## Formatting slop
+
+Visual decoration that tries to compensate for weak content.
+
+Pattern. Emoji in headings. Problem. A heading should carry weight with words.
+
+Pattern. Bold sprinkled mid-sentence for emphasis. Problem. The sentence should earn the emphasis.
+
+Pattern. Bullet lists where two sentences of prose would read better. Problem. Format follows content, not the other way around.
+
+Pattern. Headers over two-sentence sections. Problem. If the section is two sentences, it does not need a header.
+
+## Em dashes as rhythm crutch
+
+The em dash becomes a default when the writer will not commit to a comma, period, or parenthesis.
+
+Pattern. Clusters of dashes in a single paragraph. Problem. Decorative rhythm.
+
+Pattern. Dashes used as a pause when a comma or period would be clearer. Problem. The dash is doing hesitation work.
+
+In short copy, use none. In longer drafts, 1-2 are fine if they clearly beat commas, periods, or parentheses. Remove clusters and decorative dashes.

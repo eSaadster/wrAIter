@@ -4,7 +4,7 @@ This catalog is a tuning reference. Study it here. Keep it out of delivered pros
 
 ## Throat Clearing Openers
 
-These count the band in and delay the song. Skip the count. Start on the note.
+These count the band in and delay the song. Skip the count. Start on the note. Starting on the note means opening with the point. It does not mean opening with a three word fragment.
 
 Here is the thing.
 
@@ -62,6 +62,20 @@ Make no mistake.
 
 Here is why that matters.
 
+## Banned Outright
+
+These words signal AI slop on sight. Remove them unless they are part of a direct quote or specific jargon the draft genuinely needs.
+
+delve. foster. leverage. utilize. facilitate. empower. streamline.
+
+robust. cutting-edge. paradigm shift. game changer. this is huge. this changes everything.
+
+tapestry. realm. beacon. multifaceted. meticulous. intricate. paramount. transformative.
+
+elevate. embark. supercharge. harness. ever-evolving.
+
+If one of these words is doing real work in a specific technical context, keep it. Otherwise, cut it.
+
 ## Business Jargon
 
 Jargon is a borrowed suit. Wear your own clothes. Replace with plain language.
@@ -98,6 +112,18 @@ Avoid "Seamless." Say what happens.
 
 Avoid "Elevate." Say what gets better and by how much.
 
+Avoid "Deliverables." Use "What we ship."
+
+Avoid "Bandwidth." Use "Time" or "Capacity."
+
+Avoid "Synergy." Use "Working together" or name the actual effect.
+
+Avoid "Holistic." Use "Complete" or "Whole."
+
+Avoid "Scalable." Use "Grows without breaking" or name the limit.
+
+Avoid "Actionable." Use "You can do this now" or "Specific enough to act on."
+
 ## Adverbs
 
 An adverb flags a weak verb. "Ran quickly" should read "sprinted." Swap the verb and the adverb goes with it.
@@ -121,6 +147,22 @@ When it comes to.
 In a world where.
 
 The reality is.
+
+In terms of.
+
+With regard to.
+
+In order to.
+
+Going forward.
+
+In this article.
+
+Let's dive in.
+
+It is important to note.
+
+The truth is.
 
 ## Meta Commentary
 
